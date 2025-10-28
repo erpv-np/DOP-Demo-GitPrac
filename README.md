@@ -3,7 +3,7 @@
 Week2 Git Practice
 
 <<<<<<< HEAD
-Why is it called Candy Crush and not Candy Merge?
+Why is it called Candy Crush and not Candy Stack?
 =======
 <<<<<<< HEAD
 this is the third line - Jovan
