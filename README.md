@@ -16,7 +16,7 @@ this is third line of the readme file - added by epv
 
 This is a demo version of README.md - KaiJie
 
-This is the clean Readme file - Ethan
+This is the clean Readme file - Ethan Gohs
 
 ##<strong>Joseph Wan</strong>
 `simply just some boi`
