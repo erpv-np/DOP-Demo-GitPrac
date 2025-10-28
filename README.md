@@ -2,9 +2,14 @@
 
 Week2 Git Practice
 
+"The eygptians believe the most significant thing to do is to die"
+        >\\\|/<
+        |_"""_|
+        (O) (o)
++----OOO--(_)--OOOo------
+
+
 <<<<<<< HEAD
-
-
 this is the third line of the readme file - zhixun
 
 
@@ -48,5 +53,6 @@ this is third line of the readme file - Wei Dai
 ```simply just some boi```
 
 done by zz...
-=======
->>>>>>> 64c5be2cbbe23881ba19d94dc2e2566231644b20
+
+asher was here.
+>>>>>>> 6a93d9f2d4a5e1615c9b8006da535cca0e54d881
