@@ -24,4 +24,5 @@ this is third line of the readme file - added by epv
 >>>>>>> 39f09d9d5d4cf300e13753fcaa80eaa1ca81a802
 
 ## <strong>Joseph Wan</strong>
-```simply just some boi```
+```bash
+simply just some boi
