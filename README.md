@@ -3,6 +3,13 @@
 Week2 Git Practice
 
 <<<<<<< HEAD
+
+
+this is the third line of the readme file - zhixun
+
+
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 Why is it called Candy Crush and not Candy Stack?
 =======
@@ -20,10 +27,26 @@ this is the third line - Jovan
 =======
 this is third line of the readme file - added by epv
 >>>>>>> 96c7001414afcc5532667e8a5adb198ce6d40f06
+>>>>>>> 65d615b63c787c88ebb36cf79e2c046373bae871
 
+Why is it called Candy Crush and not Candy Merge?
+
+this is the third line - Jovan
+
+
+this is third line of the readme file - added by epv
+
+
+
+this is third line of the readme file - Wei Dai
+
+
+<<<<<<< HEAD
 >>>>>>> 39f09d9d5d4cf300e13753fcaa80eaa1ca81a802
 
 ## <strong>Joseph Wan</strong>
 ```simply just some boi```
 
 done by zz...
+=======
+>>>>>>> 64c5be2cbbe23881ba19d94dc2e2566231644b20
